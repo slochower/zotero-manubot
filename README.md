@@ -13,6 +13,10 @@ The following [terminal recording](https://asciinema.org/a/aQxeuXq7RW35lSDM1mezU
 
 ![fetch_papers demonstration](media/fetch_papers.gif)
 
+Which will generate output that looks like this:
+
+![rendered output](media/markdown.png)
+
 ## Usage
 
 ```
