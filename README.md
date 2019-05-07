@@ -11,7 +11,7 @@ This script uses `pyzotero` and `manubot` to generate formatted bibliographies, 
 
 The following [terminal recording](https://asciinema.org/a/aQxeuXq7RW35lSDM1mezUR9TV?speed=2) demonstrates creating a bibliography of all papers tagged with "cyclodextrin" in my personal library, ordered by date.
 
-![fetch_papers demonstration](media/fetch_papers..gif)
+![fetch_papers demonstration](media/fetch_papers.gif)
 
 ## Usage
 
